@@ -2,19 +2,7 @@
 
 // test
 
-// console.log('test git');
+let str = 'test git';
 
+console.log(str);
 
-function User() {
-  this.name = 'anonimus';
-  this.say = () =>  {
-    console.log(`${this.name}: kiiiya`);
-  };
-}
-
-
-let o = new User();
-
-o.say();
-
-// console.log(o?.address?.street);
