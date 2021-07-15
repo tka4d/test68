@@ -1,12 +1,7 @@
 'use strict'
 
-// test
+function logStr(str) {
+  console.log(str);
+}
 
-let str = 'test git';
-
-console.log(str);
-
-let num = 4;
-
-console.log(num ** 2);
-
+logStr('test git');
