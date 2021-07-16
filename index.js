@@ -1,7 +1,11 @@
 'use strict'
 
-function logStr(str) {
-  console.log(str);
+// test
+
+function calc(a, b) {
+  return a + b;
 }
 
-logStr('test git');
+let result = calc(5, 4);
+
+console.log(result);
