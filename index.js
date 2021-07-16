@@ -2,10 +2,10 @@
 
 // test
 
-function calc(a, b) {
-  return a + b;
+function calc(y, b) {
+  return y + b;
 }
 
-let result = calc(5, 4);
+let calculatedResult = calc(10, 2);
 
-console.log(result);
+console.log(calculatedResult);
