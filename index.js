@@ -9,3 +9,5 @@ function calc(x, y) {
 let calculatedResult = calc(6, 2);
 
 console.log(calculatedResult);
+
+console.log('Done!');
