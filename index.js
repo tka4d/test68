@@ -10,4 +10,4 @@ let calculatedResult = calc(6, 2);
 
 console.log(calculatedResult);
 
-console.log('Done!');
+console.log('test done!');
