@@ -8,3 +8,4 @@ let result = calc(4, 10);
 
 console.log(result);
 
+console.log('calculate');
